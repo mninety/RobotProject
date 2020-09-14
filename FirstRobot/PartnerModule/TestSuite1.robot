@@ -37,6 +37,7 @@ Add Driver
     Click Element    id=agree    
     Click Button    xpath=//div[@class='form-group']/div/button      
     
+    #Test
     #Choose File    xpath=//div[@class='form-group']/div/button    D:\\AutomationImage.JPG  
     #Close Browser
     #Sleep    5s    
